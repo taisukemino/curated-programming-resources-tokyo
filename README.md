@@ -31,6 +31,7 @@
 * [Rebuild](https://itunes.apple.com/jp/podcast/rebuild/id603013428)
 
 # <a name="events">イベント</a>
+* [We Are JavaScripters!](https://wajs.connpass.com/)
 
 # <a name="bootcamps">ブートキャンプ</a>
 * [G's ACADEMY TOKYO](https://gsacademy.tokyo/)
